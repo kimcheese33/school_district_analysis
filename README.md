@@ -9,11 +9,11 @@ The purpose of the module was to analyze school district data to determine how v
 
 In the district summary, Average Math Score, % Passing Math, % Passing Reading, and % Overall Passing were slightly affected when looking at the values rounded to the tenths place. Total Schools, Total Students, Total Budget, and Average Reading Score were unaffected. In the new district summary, the columns that were affected were slightly lower:
 
-Old District Summary:
+  - Old District Summary:
 
 <img src="https://github.com/kimcheese33/school_district_analysis/blob/main/Images/old_district_summary.png"/>
 
-New District Summary:
+  - New District Summary:
 
 <img src="https://github.com/kimcheese33/school_district_analysis/blob/main/Images/new_district_summary.png"/>
 
@@ -21,11 +21,11 @@ New District Summary:
 
 After removing the scores, the new district school summary score-related values for Thomas High School increased pretty significantly. The scores went from the 60s range to the 90s range, failing to passing as shown below:
 
-Old School Summary:
+  - Old School Summary:
 
 <img src="https://github.com/kimcheese33/school_district_analysis/blob/main/Images/old_school_summary.png"/>
 
-New School Summary:
+  - New School Summary:
 
 <img src="https://github.com/kimcheese33/school_district_analysis/blob/main/Images/new_school_summary.png"/>
 
