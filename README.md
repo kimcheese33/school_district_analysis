@@ -11,18 +11,30 @@ In the district summary, Average Math Score, % Passing Math, % Passing Reading, 
 
 Old District Summary:
 
-<img src="https://github.com/kimcheese33/school_district_analysis/blob/main/Images/old_district_summary.png" width=700" height="100" />
+<img src="https://github.com/kimcheese33/school_district_analysis/blob/main/Images/old_district_summary.png"/>
+
+New District Summary:
+
+<img src="https://github.com/kimcheese33/school_district_analysis/blob/main/Images/new_district_summary.png"/>
 
 - How is the school summary affected?
 
 After removing the scores, the new district school summary score-related values for Thomas High School increased pretty significantly. The scores went from the 60s range to the 90s range, failing to passing as shown below:
+
+Old School Summary:
+
+<img src="https://github.com/kimcheese33/school_district_analysis/blob/main/Images/old_school_summary.png"/>
+
+New School Summary:
+
+<img src="https://github.com/kimcheese33/school_district_analysis/blob/main/Images/new_school_summary.png"/>
 
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
 Replacing the scores for Thomas High School resulted in them being placed in the top five best scoring schools in the district:
 
-
+<img src="https://github.com/kimcheese33/school_district_analysis/blob/main/Images/top_five.png"/>
 
 - How does replacing the ninth-grade scores affect the following:
 
