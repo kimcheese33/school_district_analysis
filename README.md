@@ -30,13 +30,13 @@ After removing the scores, the new district school summary score-related values 
 <img src="https://github.com/kimcheese33/school_district_analysis/blob/main/Images/new_school_summary.png"/>
 
 
-- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+- **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
 
 Replacing the scores for Thomas High School resulted in them being placed in the top five best scoring schools in the district:
 
 <img src="https://github.com/kimcheese33/school_district_analysis/blob/main/Images/top_five.png"/>
 
-- How does replacing the ninth-grade scores affect the following:
+- **How does replacing the ninth-grade scores affect the following:**
 
   - Math and reading scores by grade
    
@@ -59,4 +59,10 @@ Replacing the scores for Thomas High School resulted in them being placed in the
 
 Four major changes that resulted from replacing the 9th grade scores from Thomas High School with NaNs are:
 
-- 
+1. For the district, the score values were slightly lowered when the scores were replaced.
+
+2. For Thomas High School, the scores went from failing to high passing, which then put them in the top 5 shools in the district.
+
+3. Since the scores were replaced, we have no insight into how well the 9th graders at Thomas High School did. 
+
+4. Replacing the scores affected the values for spending ranges in the $630-644 range, for mid-sized schools, and for Charter schools. The scores were all slightly lowered except for Average Reading Score.
